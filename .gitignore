@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Bulk InSAR data, toolchains, and intermediate products (too large for git)
+data/
+tools/LiCSBAS/
+*.h5
