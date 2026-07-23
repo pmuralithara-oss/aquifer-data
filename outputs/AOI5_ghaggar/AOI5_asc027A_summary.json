@@ -1,0 +1,72 @@
+{
+ "name": "AOI5_asc027A",
+ "epochs": 107,
+ "span_yr": 8.35,
+ "date_first": "20141031",
+ "date_last": "20230306",
+ "usable_px": 38034,
+ "total_px": 1122201,
+ "inelastic_px": 653,
+ "elastic_px": 3812,
+ "indeterminate_px": 33569,
+ "rate_p2": -9.917929692834543,
+ "rate_p50": 5.160619963803096,
+ "rate_p98": 20.133355154331454,
+ "amp_p50": 2.544399356541584,
+ "hotspots": [
+  {
+   "name": "Sangrur",
+   "lat": 30.245,
+   "lon": 75.842,
+   "published": "",
+   "fit_rate_mmyr": null,
+   "fit_amp_mm": null,
+   "status": "masked"
+  },
+  {
+   "name": "Mansa",
+   "lat": 29.986,
+   "lon": 75.393,
+   "published": "",
+   "fit_rate_mmyr": null,
+   "fit_amp_mm": null,
+   "status": "masked"
+  },
+  {
+   "name": "Patiala",
+   "lat": 30.336,
+   "lon": 76.392,
+   "published": "",
+   "fit_rate_mmyr": null,
+   "fit_amp_mm": null,
+   "status": "masked"
+  },
+  {
+   "name": "Sunam",
+   "lat": 30.128,
+   "lon": 75.8,
+   "published": "",
+   "fit_rate_mmyr": 0.4,
+   "fit_amp_mm": 1.7,
+   "status": "ok"
+  },
+  {
+   "name": "Barnala",
+   "lat": 30.374,
+   "lon": 75.546,
+   "published": "",
+   "fit_rate_mmyr": null,
+   "fit_amp_mm": null,
+   "status": "masked"
+  },
+  {
+   "name": "Budhlada",
+   "lat": 29.928,
+   "lon": 75.562,
+   "published": "",
+   "fit_rate_mmyr": 13.3,
+   "fit_amp_mm": 4.5,
+   "status": "ok"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "name": "AOI3_asc027A",
+ "epochs": 137,
+ "span_yr": 8.38,
+ "date_first": "20141031",
+ "date_last": "20230318",
+ "usable_px": 140853,
+ "total_px": 220951,
+ "inelastic_px": 1369,
+ "elastic_px": 44055,
+ "indeterminate_px": 95429,
+ "rate_p2": -8.317623263372766,
+ "rate_p50": 0.036878771575171033,
+ "rate_p98": 4.289596203602156,
+ "amp_p50": 2.009023539712698,
+ "hotspots": [
+  {
+   "name": "Kapashera",
+   "lat": 28.5286,
+   "lon": 77.1006,
+   "published": "-110 to -170",
+   "fit_rate_mmyr": -1.6,
+   "fit_amp_mm": 0.9,
+   "status": "ok"
+  },
+  {
+   "name": "Dwarka Sec23",
+   "lat": 28.571,
+   "lon": 77.064,
+   "published": "-35",
+   "fit_rate_mmyr": 1.1,
+   "fit_amp_mm": 0.7,
+   "status": "ok"
+  },
+  {
+   "name": "Gurugram DLF",
+   "lat": 28.4595,
+   "lon": 77.0938,
+   "published": "-30 to -80",
+   "fit_rate_mmyr": -0.6,
+   "fit_amp_mm": 1.5,
+   "status": "ok"
+  },
+  {
+   "name": "Gurugram Sec47",
+   "lat": 28.43,
+   "lon": 77.048,
+   "published": "-50",
+   "fit_rate_mmyr": 2.2,
+   "fit_amp_mm": 3.2,
+   "status": "ok"
+  },
+  {
+   "name": "IGI Airport",
+   "lat": 28.5562,
+   "lon": 77.1,
+   "published": "-20",
+   "fit_rate_mmyr": 0.0,
+   "fit_amp_mm": 1.6,
+   "status": "ok"
+  },
+  {
+   "name": "Mahipalpur",
+   "lat": 28.544,
+   "lon": 77.124,
+   "published": "-60",
+   "fit_rate_mmyr": -0.4,
+   "fit_amp_mm": 1.2,
+   "status": "ok"
+  },
+  {
+   "name": "Faridabad Sec21",
+   "lat": 28.403,
+   "lon": 77.305,
+   "published": "-115",
+   "fit_rate_mmyr": -2.7,
+   "fit_amp_mm": 1.7,
+   "status": "ok"
+  },
+  {
+   "name": "Faridabad NIT",
+   "lat": 28.388,
+   "lon": 77.29,
+   "published": "-60",
+   "fit_rate_mmyr": -0.6,
+   "fit_amp_mm": 2.0,
+   "status": "ok"
+  },
+  {
+   "name": "Palam",
+   "lat": 28.589,
+   "lon": 77.088,
+   "published": "-20",
+   "fit_rate_mmyr": -1.8,
+   "fit_amp_mm": 0.7,
+   "status": "ok"
+  },
+  {
+   "name": "Samalka",
+   "lat": 28.515,
+   "lon": 77.087,
+   "published": "-90",
+   "fit_rate_mmyr": -11.4,
+   "fit_amp_mm": 2.0,
+   "status": "ok"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "name": "AOI2_desc034D",
+ "epochs": 144,
+ "span_yr": 6.93,
+ "date_first": "20160424",
+ "date_last": "20230331",
+ "usable_px": 36293,
+ "total_px": 120701,
+ "inelastic_px": 6,
+ "elastic_px": 1199,
+ "indeterminate_px": 35088,
+ "rate_p2": -2.3838973067309683,
+ "rate_p50": 5.252850525763901,
+ "rate_p98": 8.794525087507342,
+ "amp_p50": 1.095003738683009,
+ "hotspots": [
+  {
+   "name": "Ludhiana Old City",
+   "lat": 30.905,
+   "lon": 75.851,
+   "published": "-25 (prior)",
+   "fit_rate_mmyr": 6.7,
+   "fit_amp_mm": 1.8,
+   "status": "ok"
+  },
+  {
+   "name": "Civil Lines",
+   "lat": 30.911,
+   "lon": 75.836,
+   "published": "",
+   "fit_rate_mmyr": 5.9,
+   "fit_amp_mm": 1.8,
+   "status": "ok"
+  },
+  {
+   "name": "Focal Point Ind",
+   "lat": 30.877,
+   "lon": 75.928,
+   "published": "-25 (prior)",
+   "fit_rate_mmyr": 8.1,
+   "fit_amp_mm": 1.4,
+   "status": "ok"
+  },
+  {
+   "name": "Dugri",
+   "lat": 30.874,
+   "lon": 75.828,
+   "published": "",
+   "fit_rate_mmyr": 5.0,
+   "fit_amp_mm": 1.4,
+   "status": "ok"
+  },
+  {
+   "name": "Sahnewal",
+   "lat": 30.845,
+   "lon": 75.964,
+   "published": "",
+   "fit_rate_mmyr": 6.4,
+   "fit_amp_mm": 0.2,
+   "status": "ok"
+  },
+  {
+   "name": "Mundian Kalan",
+   "lat": 30.93,
+   "lon": 75.905,
+   "published": "",
+   "fit_rate_mmyr": null,
+   "fit_amp_mm": null,
+   "status": "masked"
+  }
+ ]
+}

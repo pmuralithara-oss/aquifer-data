@@ -1,0 +1,108 @@
+{
+ "name": "AOI1_desc136D",
+ "epochs": 118,
+ "span_yr": 7.16,
+ "date_first": "20141015",
+ "date_last": "20211213",
+ "usable_px": 52271,
+ "total_px": 251001,
+ "inelastic_px": 22210,
+ "elastic_px": 1183,
+ "indeterminate_px": 28878,
+ "rate_p2": -119.78112974254107,
+ "rate_p50": -1.573857948712548,
+ "rate_p98": 49.306228710259504,
+ "amp_p50": 3.3051960819014368,
+ "hotspots": [
+  {
+   "name": "Kharar",
+   "lat": 30.746,
+   "lon": 76.647,
+   "published": "-60 to -180 (corridor prior)",
+   "fit_rate_mmyr": -85.6,
+   "fit_amp_mm": 5.2,
+   "status": "ok"
+  },
+  {
+   "name": "Sunny Enclave",
+   "lat": 30.757,
+   "lon": 76.633,
+   "published": "",
+   "fit_rate_mmyr": -61.3,
+   "fit_amp_mm": 12.8,
+   "status": "ok"
+  },
+  {
+   "name": "Mohali Sec70",
+   "lat": 30.704,
+   "lon": 76.717,
+   "published": "",
+   "fit_rate_mmyr": -48.0,
+   "fit_amp_mm": 1.8,
+   "status": "ok"
+  },
+  {
+   "name": "Zirakpur",
+   "lat": 30.642,
+   "lon": 76.817,
+   "published": "-60 to -180 (corridor prior)",
+   "fit_rate_mmyr": -6.4,
+   "fit_amp_mm": 1.7,
+   "status": "ok"
+  },
+  {
+   "name": "Dera Bassi",
+   "lat": 30.582,
+   "lon": 76.843,
+   "published": "-60 to -180 (corridor prior)",
+   "fit_rate_mmyr": -130.1,
+   "fit_amp_mm": 8.9,
+   "status": "ok"
+  },
+  {
+   "name": "Chandigarh Sec17",
+   "lat": 30.741,
+   "lon": 76.782,
+   "published": "",
+   "fit_rate_mmyr": 5.2,
+   "fit_amp_mm": 0.7,
+   "status": "ok"
+  },
+  {
+   "name": "Panchkula",
+   "lat": 30.695,
+   "lon": 76.854,
+   "published": "",
+   "fit_rate_mmyr": 11.0,
+   "fit_amp_mm": 2.5,
+   "status": "ok"
+  },
+  {
+   "name": "Landran",
+   "lat": 30.662,
+   "lon": 76.66,
+   "published": "",
+   "fit_rate_mmyr": null,
+   "fit_amp_mm": null,
+   "status": "masked"
+  },
+  {
+   "name": "New Chandigarh",
+   "lat": 30.802,
+   "lon": 76.72,
+   "published": "",
+   "fit_rate_mmyr": null,
+   "fit_amp_mm": null,
+   "status": "masked"
+  },
+  {
+   "name": "Banur",
+   "lat": 30.554,
+   "lon": 76.719,
+   "published": "",
+   "fit_rate_mmyr": -13.7,
+   "fit_amp_mm": 2.0,
+   "status": "ok"
+  }
+ ]
+}

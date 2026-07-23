@@ -1,0 +1,81 @@
+{
+ "name": "AOI4_desc034D",
+ "epochs": 149,
+ "span_yr": 6.93,
+ "date_first": "20160424",
+ "date_last": "20230331",
+ "usable_px": 60897,
+ "total_px": 140751,
+ "inelastic_px": 15366,
+ "elastic_px": 13088,
+ "indeterminate_px": 32443,
+ "rate_p2": -57.89723664389403,
+ "rate_p50": 0.07054544537901619,
+ "rate_p98": 10.446730862530858,
+ "amp_p50": 1.7592943079384125,
+ "hotspots": [
+  {
+   "name": "Model Town",
+   "lat": 31.481,
+   "lon": 74.322,
+   "published": "-43 (prior max)",
+   "fit_rate_mmyr": -46.6,
+   "fit_amp_mm": 2.3,
+   "status": "ok"
+  },
+  {
+   "name": "Gulberg",
+   "lat": 31.52,
+   "lon": 74.351,
+   "published": "",
+   "fit_rate_mmyr": -30.7,
+   "fit_amp_mm": 1.4,
+   "status": "ok"
+  },
+  {
+   "name": "Johar Town",
+   "lat": 31.462,
+   "lon": 74.271,
+   "published": "",
+   "fit_rate_mmyr": -4.8,
+   "fit_amp_mm": 2.3,
+   "status": "ok"
+  },
+  {
+   "name": "Walled City",
+   "lat": 31.583,
+   "lon": 74.316,
+   "published": "",
+   "fit_rate_mmyr": -30.1,
+   "fit_amp_mm": 1.3,
+   "status": "ok"
+  },
+  {
+   "name": "Central Lahore",
+   "lat": 31.567,
+   "lon": 74.325,
+   "published": "",
+   "fit_rate_mmyr": -20.4,
+   "fit_amp_mm": 2.0,
+   "status": "ok"
+  },
+  {
+   "name": "DHA",
+   "lat": 31.478,
+   "lon": 74.39,
+   "published": "",
+   "fit_rate_mmyr": -9.9,
+   "fit_amp_mm": 1.8,
+   "status": "ok"
+  },
+  {
+   "name": "Township",
+   "lat": 31.443,
+   "lon": 74.305,
+   "published": "",
+   "fit_rate_mmyr": -51.2,
+   "fit_amp_mm": 3.5,
+   "status": "ok"
+  }
+ ]
+}
